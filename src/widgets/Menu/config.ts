@@ -92,24 +92,7 @@ export const links = [
   {
     label: "More",
     icon: "MoreIcon",
-    items: [
-      // {
-      //   label: "Voting",
-      //   href: "https://voting.pancakeswap.finance",
-      // },
-      {
-        label: "Github",
-        href: "https://github.com/astralfarm/",
-      },
-      {
-        label: "Docs",
-        href: "https://astral-farm.gitbook.io/astral-farm/",
-      },
-      {
-        label: "Blog",
-        href: "https://astralfarm.medium.com/",
-      },
-    ],
+    items: [],
   },
 ];
 
@@ -117,12 +100,12 @@ export const socials = [
   {
     label: "Telegram",
     icon: "TelegramIcon",
-    href: "https://t.me/astral_farm",
+    href: "https://t.me/",
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/Astral_FTM",
+    href: "https://twitter.com/",
   },
 ];
 
