@@ -39,14 +39,14 @@ const Panel: React.FC<Props> = (props) => {
   const { isPushed, showMenu } = props;
   return (
     <StyledPanel isPushed={isPushed} showMenu={showMenu}>
-      {/* <PanelBody {...props} />
-      <a href="https://rugdoc.io/project/astral-farm/">
+      <PanelBody {...props} />
+      {/* <a href="https://rugdoc.io/project/astral-farm/">
         <Image src="/images/RugDoc.png" width={370} height={121} responsive alt="RugdocReview" />
       </a>
       <a href="https://www.assuredefi.io/projects/astral-farm/">
         <Image src="/images/assure/assure.png" width={370} height={121} responsive alt="AssureKYC" />
-      </a>
-      <PanelFooter {...props} /> */}
+      </a> */}
+      <PanelFooter {...props} />
     </StyledPanel>
   );
 };
