@@ -671,7 +671,7 @@ var getBoxShadow = function (_a) {
     }
     return theme.card.boxShadow;
 };
-var StyledCard = styled.div(templateObject_1$a || (templateObject_1$a = __makeTemplateObject(["\n  background-color: #3b3b3b;\n  /* background-image: linear-gradient(147deg, #923cb5 0%, #000000 74%); */\n  border: ", ";\n  border-radius: 32px;\n  box-shadow: ", ";\n  color: ", ";\n  overflow: hidden;\n  position: relative;\n\n  ", "\n"], ["\n  background-color: #3b3b3b;\n  /* background-image: linear-gradient(147deg, #923cb5 0%, #000000 74%); */\n  border: ", ";\n  border-radius: 32px;\n  box-shadow: ", ";\n  color: ", ";\n  overflow: hidden;\n  position: relative;\n\n  ", "\n"])), function (_a) {
+var StyledCard = styled.div(templateObject_1$a || (templateObject_1$a = __makeTemplateObject(["\n  background-color: #3d5a80;\n  /* background-image: linear-gradient(147deg, #923cb5 0%, #000000 74%); */\n  border: ", ";\n  border-radius: 20px;\n  box-shadow: ", ";\n  color: ", ";\n  overflow: hidden;\n  position: relative;\n\n  ", "\n"], ["\n  background-color: #3d5a80;\n  /* background-image: linear-gradient(147deg, #923cb5 0%, #000000 74%); */\n  border: ", ";\n  border-radius: 20px;\n  box-shadow: ", ";\n  color: ", ";\n  overflow: hidden;\n  position: relative;\n\n  ", "\n"])), function (_a) {
     var theme = _a.theme;
     return theme.colors.primary;
 }, getBoxShadow, function (_a) {
@@ -2893,7 +2893,7 @@ var light$2 = {
     dropShadow: "drop-shadow(0px 1px 4px rgba(25, 19, 38, 0.15))",
 };
 var dark$2 = {
-    background: "#3B3B3B",
+    background: "#3D5A80",
     boxShadow: "0px 2px 12px -8px rgba(25, 19, 38, 0.1), 0px 1px 1px rgba(25, 19, 38, 0.05)",
     boxShadowActive: shadows.active,
     boxShadowSuccess: shadows.success,
