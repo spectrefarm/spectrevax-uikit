@@ -100,12 +100,12 @@ export const socials = [
   {
     label: "Telegram",
     icon: "TelegramIcon",
-    href: "https://t.me/",
+    href: "https://t.me/spectrefi",
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/",
+    href: "https://twitter.com/FarmSpectre",
   },
 ];
 
