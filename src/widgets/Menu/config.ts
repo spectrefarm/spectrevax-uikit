@@ -105,7 +105,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/FarmSpectre",
+    href: "https://twitter.com/SpectreFi",
   },
 ];
 

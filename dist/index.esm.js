@@ -2197,7 +2197,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/FarmSpectre",
+        href: "https://twitter.com/SpectreFi",
     },
 ];
 var MENU_HEIGHT = 64;
