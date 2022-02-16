@@ -2210,7 +2210,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/SpectreFi",
+        href: "https://twitter.com/SpectreDefi",
     },
 ];
 var MENU_HEIGHT = 64;
