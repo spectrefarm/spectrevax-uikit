@@ -2390,6 +2390,8 @@ var Panel = function (props) {
         React__default['default'].createElement(PanelBody, __assign({}, props)),
         React__default['default'].createElement("a", { href: "https://rugdoc.io/project/spectrefi/" },
             React__default['default'].createElement(Image, { src: "/images/RugDoc.png", width: 370, height: 121, responsive: true, alt: "RugdocReview" })),
+        React__default['default'].createElement("a", { href: "https://www.apeoclock.com/launch/spectrefi-farm-launch/" },
+            React__default['default'].createElement(Image, { src: "/images/egg/apeoclock.png", width: 370, height: 121, responsive: true, alt: "ApeOClock" })),
         React__default['default'].createElement(PanelFooter, __assign({}, props))));
 };
 var templateObject_1$E;

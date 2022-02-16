@@ -43,6 +43,9 @@ const Panel: React.FC<Props> = (props) => {
       <a href="https://rugdoc.io/project/spectrefi/">
         <Image src="/images/RugDoc.png" width={370} height={121} responsive alt="RugdocReview" />
       </a>
+      <a href="https://www.apeoclock.com/launch/spectrefi-farm-launch/">
+        <Image src="/images/egg/apeoclock.png" width={370} height={121} responsive alt="ApeOClock" />
+      </a>
       {/* <a href="https://www.assuredefi.io/projects/astral-farm/">
         <Image src="/images/assure/assure.png" width={370} height={121} responsive alt="AssureKYC" />
       </a> */}
