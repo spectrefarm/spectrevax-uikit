@@ -2375,10 +2375,6 @@ var Panel = function (props) {
     var isPushed = props.isPushed, showMenu = props.showMenu;
     return (React.createElement(StyledPanel, { isPushed: isPushed, showMenu: showMenu },
         React.createElement(PanelBody, __assign({}, props)),
-        React.createElement("a", { href: "https://rugdoc.io/project/spectrefi/" },
-            React.createElement(Image, { src: "/images/RugDoc.png", width: 370, height: 121, responsive: true, alt: "RugdocReview" })),
-        React.createElement("a", { href: "https://ftm.farmscan.io/address/0x0a53F16a00c593cbe5F6C890E751338396FE680f" },
-            React.createElement(Image, { src: "/images/farmscan.svg", width: 370, height: 121, responsive: true, alt: "FarmScan" })),
         React.createElement(PanelFooter, __assign({}, props))));
 };
 var templateObject_1$E;
@@ -2792,7 +2788,7 @@ var brandColors = {
 var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), { background: "#FAF9FA", backgroundDisabled: "#E9EAEB", contrast: "#191326", invertedContrast: "#FFFFFF", input: "#eeeaf4", tertiary: "#EFF4F5", text: "#452A7A", textDisabled: "#BDC2C4", textSubtle: "#8f80ba", borderColor: "#E9EAEB", card: "#FFFFFF", gradients: {
         bubblegum: "linear-gradient(139.73deg, #E6FDFF 0%, #F3EFFF 100%)",
     } });
-var darkColors = __assign(__assign(__assign({}, baseColors), brandColors), { secondary: "#B42B51", background: "#003153", backgroundDisabled: "#000000", contrast: "#1e293b", invertedContrast: "#191326", input: "#14213d", primaryDark: "#0098A1", tertiary: "#353547", text: "#EAE2FC", textDisabled: "#666171", textSubtle: "#c9c4d4", borderColor: "#000000", card: "#293241", gradients: {
+var darkColors = __assign(__assign(__assign({}, baseColors), brandColors), { secondary: "#B42B51", background: "#053F5C", backgroundDisabled: "#000000", contrast: "#1e293b", invertedContrast: "#191326", input: "#14213d", primaryDark: "#429EBD", tertiary: "#353547", text: "#EAE2FC", textDisabled: "#666171", textSubtle: "#c9c4d4", borderColor: "#000000", card: "#053F5C", gradients: {
         bubblegum: "linear-gradient(139.73deg, #313D5C 0%, #3D2A54 100%)",
     } });
 
