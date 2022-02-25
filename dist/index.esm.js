@@ -2192,7 +2192,7 @@ var socials = [
     {
         label: "Telegram",
         icon: "TelegramIcon",
-        href: "https://t.me/spectrefi",
+        href: "https://t.me/SpectreFi_AVAX",
     },
     {
         label: "Twitter",
