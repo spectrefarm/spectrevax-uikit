@@ -40,10 +40,10 @@ const Panel: React.FC<Props> = (props) => {
   return (
     <StyledPanel isPushed={isPushed} showMenu={showMenu}>
       <PanelBody {...props} />
-      {/* <a href="https://rugdoc.io/project/spectrefi/">
+      <a href="https://rugdoc.io/project/spectrefi-avalanche/">
         <Image src="/images/RugDoc.png" width={370} height={121} responsive alt="RugdocReview" />
       </a>
-      <a href="https://ftm.farmscan.io/address/0x0a53F16a00c593cbe5F6C890E751338396FE680f">
+      {/* <a href="https://avax.farmscan.io/address/0x462e5aF1e749f051ddf3E2816096E1F8B3087813">
         <Image src="/images/farmscan.svg" width={370} height={121} responsive alt="FarmScan" />
       </a> */}
       <PanelFooter {...props} />
