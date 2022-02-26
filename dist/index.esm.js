@@ -2377,6 +2377,8 @@ var Panel = function (props) {
         React.createElement(PanelBody, __assign({}, props)),
         React.createElement("a", { href: "https://rugdoc.io/project/spectrefi-avalanche/" },
             React.createElement(Image, { src: "/images/RugDoc.png", width: 370, height: 121, responsive: true, alt: "RugdocReview" })),
+        React.createElement("a", { href: "https://avax.farmscan.io/address/0x462e5aF1e749f051ddf3E2816096E1F8B3087813" },
+            React.createElement(Image, { src: "/images/egg/farmscan-avax.svg", width: 350, height: 121, responsive: true, alt: "FarmScan" })),
         React.createElement(PanelFooter, __assign({}, props))));
 };
 var templateObject_1$E;
